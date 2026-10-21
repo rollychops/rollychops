@@ -14,10 +14,8 @@
   </div>
 </p>
 <div align="center">
-<!--
   <br>
-    <a href="https://rollychops.com/"><s>website</s></a> ·
+    <a href="https://rollychops.com/">website</a>
   <br><br><br>
--->
   ───── λ ─────
 </div>

@@ -4,7 +4,6 @@
 
 <p>
   <div align="center">
-    <br>
       18 ∿ full-time student<br><br>
       python · java · ruby
     <br><br>
@@ -14,8 +13,5 @@
   </div>
 </p>
 <div align="center">
-  <br>
-    <a href="https://rollychops.com/">website</a>
-  <br><br><br>
   ───── λ ─────
 </div>
